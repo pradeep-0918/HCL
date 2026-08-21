@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c0522924a196c230",
+        "id": "dc75294b506140ac",
         "type": "tabs",
         "children": [
           {
-            "id": "8ba8101ca2d57108",
+            "id": "f874aa2f5a121b50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APTITUDE/Syllabus.md",
+                "file": "Flowchart/Verbal flow chart.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Syllabus"
+              "title": "Verbal flow chart"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -196,19 +196,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ba8101ca2d57108",
+  "active": "f874aa2f5a121b50",
   "lastOpenFiles": [
+    "Flowchart/Reasoning flowchart.md",
+    "Flowchart/Verbal flow chart.md",
+    "Flowchart/Aptitude flowchart.md",
+    "HCL Preparation/CS FUNDAMENTAL/Syllabus.md",
+    "HCL Preparation/APTITUDE/Syllabus.md",
+    "HCL Preparation/CODING/Syllabus.md",
+    "HCL Preparation/REASONING/Syllabus.md",
+    "HCL Preparation",
+    "CS FUNDAMENTAL/FolderStrcture.md",
+    "Flowchart",
+    "HCL Preparation/VERBAL/Syllabus.md",
     "Natural Numbers.md",
-    "APTITUDE/Syllabus.md",
     "APTITUDE/Number System.md",
     "APTITUDE/Untitled/Number System.md",
     "Readme.md",
     "APTITUDE/Untitled",
     "Untitled.base",
-    "CS FUNDAMENTAL",
-    "CODING",
-    "REASONING",
-    "VERBAL",
-    "APTITUDE"
+    "HCL Preparation/CS FUNDAMENTAL",
+    "HCL Preparation/CODING",
+    "HCL Preparation/REASONING",
+    "HCL Preparation/VERBAL",
+    "HCL Preparation/APTITUDE"
   ]
 }
