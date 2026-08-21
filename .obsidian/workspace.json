@@ -11,10 +11,14 @@
             "id": "8ba8101ca2d57108",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "APTITUDE/Syllabus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Syllabus"
             }
           }
         ]
@@ -194,8 +198,13 @@
   },
   "active": "8ba8101ca2d57108",
   "lastOpenFiles": [
+    "Natural Numbers.md",
+    "APTITUDE/Syllabus.md",
+    "APTITUDE/Number System.md",
+    "APTITUDE/Untitled/Number System.md",
+    "Readme.md",
+    "APTITUDE/Untitled",
     "Untitled.base",
-    "Welcome.md",
     "CS FUNDAMENTAL",
     "CODING",
     "REASONING",
