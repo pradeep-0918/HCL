@@ -55,30 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HCL Preparation/APTITUDE/Modules/NumberSystem/Number Basic/01. Number System/Number Basics/Irrational Numbers.md",
-                "mode": "source",
+                "file": "HCL Preparation/APTITUDE/01. Number System/Number Basics/Irrational Numbers.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Irrational Numbers"
             }
-          },
-          {
-            "id": "d013b815fe53bef9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HCL Preparation/APTITUDE/01. Number System/Number Basics/Whole Numbers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Whole Numbers"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -253,9 +239,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d013b815fe53bef9",
+  "active": "55b931dd831036c2",
   "lastOpenFiles": [
+    "HCL Preparation/APTITUDE/01. Number System/Number Basics/Rational Numbers.md",
+    "HCL Preparation/APTITUDE/01. Number System/Number Basics/Integers.md",
+    "HCL Preparation/APTITUDE/01. Number System/Number Basics/Real Numbers.md",
+    "01. Number System.md",
     "HCL Preparation/APTITUDE/01. Number System/Number Basics/Natural Numbers.md",
+    "HCL Preparation/APTITUDE/01. Number System/Number Basics/Whole Numbers.md",
+    "conflict-files-obsidian-git.md",
     "Flowchart/CS Fundamentals flow chart.md",
     "HCL Preparation/CODING/Syllabus.md",
     "Untitled",
@@ -280,14 +272,8 @@
     "HCL Preparation/APTITUDE/26. Mathematical Reasoning",
     "HCL Preparation/APTITUDE/25. Calendars/Core/Calendar Problems.md",
     "HCL Preparation/APTITUDE/25. Calendars/Core/Counting Days.md",
-    "HCL Preparation/APTITUDE/25. Calendars/Core/Day of the Week.md",
-    "HCL Preparation/APTITUDE/25. Calendars/Core/Leap Year.md",
-    "HCL Preparation/APTITUDE/25. Calendars/Core/Odd Days.md",
     "HCL Preparation/APTITUDE/25. Calendars/Core",
     "HCL Preparation/APTITUDE/25. Calendars",
-    "HCL Preparation/APTITUDE/24. Clocks/Core/Faulty Clock.md",
-    "HCL Preparation/APTITUDE/24. Clocks/Core/Right Angle.md",
-    "HCL Preparation/APTITUDE/24. Clocks/Core/Opposite Hands.md",
     "HCL Preparation/APTITUDE/24. Clocks/Core",
     "HCL Preparation/APTITUDE/24. Clocks",
     "HCL Preparation/APTITUDE/23. Data Sufficiency/Core"
