@@ -43,11 +43,11 @@ tags:
 
 #### Number Basics
 
-- [[01. Number System/Number Basics/Natural Numbers|Natural Numbers]]
-- [[01. Number System/Number Basics/Whole Numbers|Whole Numbers]]
+- [[Natural Numbers|Natural Numbers]]
+- [[Whole Numbers|Whole Numbers]]
 - [[01. Number System/Number Basics/Integers|Integers]]
 - [[01. Number System/Number Basics/Rational Numbers|Rational Numbers]]
-- [[01. Number System/Number Basics/Irrational Numbers|Irrational Numbers]]
+- [[Irrational Numbers|Irrational Numbers]]
 - [[01. Number System/Number Basics/Real Numbers|Real Numbers]]
 - [[01. Number System/Number Basics/Even and Odd Numbers|Even and Odd Numbers]]
 - [[01. Number System/Number Basics/Positive and Negative Numbers|Positive and Negative Numbers]]

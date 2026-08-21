@@ -8,49 +8,77 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f874aa2f5a121b50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flowchart/Verbal flow chart.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Verbal flow chart"
-            }
-          },
-          {
-            "id": "05cfe5df03c923a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flowchart/Coding flowchart.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Coding flowchart"
-            }
-          },
-          {
             "id": "1ea95488defb99f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "Flowchart/Aptitude flowchart.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aptitude flowchart"
+            }
+          },
+          {
+            "id": "41cb324ee8efaaec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HCL Preparation/APTITUDE/Modules/NumberSystem/Number Basic/01. Number System/Number Basics/Whole Numbers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Whole Numbers"
+            }
+          },
+          {
+            "id": "a8066e67a2b333b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HCL Preparation/APTITUDE/Modules/NumberSystem/Number Basic/01. Number System/Number Basics/Integers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Integers"
+            }
+          },
+          {
+            "id": "55b931dd831036c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HCL Preparation/APTITUDE/Modules/NumberSystem/Number Basic/01. Number System/Number Basics/Irrational Numbers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Irrational Numbers"
+            }
+          },
+          {
+            "id": "d013b815fe53bef9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HCL Preparation/APTITUDE/Modules/NumberSystem/Number Basic/01. Number System/Number Basics/Natural Numbers.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "Natural Numbers"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -69,7 +97,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -225,15 +253,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3d7165e875c0cd2",
+  "active": "c266d1042aea80fb",
   "lastOpenFiles": [
+    "HCL Preparation/APTITUDE/Syllabus.md",
+    "HCL Preparation/APTITUDE/Modules/NumberSystem/Number Basic/01. Number System/Number Basics/Real Numbers.md",
+    "HCL Preparation/APTITUDE/Modules/NumberSystem/Number Basic/01. Number System/Number Basics/Irrational Numbers.md",
+    "HCL Preparation/APTITUDE/Modules/NumberSystem/Number Basic/01. Number System/Number Basics/Rational Numbers.md",
+    "HCL Preparation/APTITUDE/Modules/NumberSystem/Number Basic/01. Number System/Number Basics/Integers.md",
+    "HCL Preparation/APTITUDE/Modules/NumberSystem/Number Basic/01. Number System/Number Basics/Whole Numbers.md",
+    "HCL Preparation/APTITUDE/Modules/NumberSystem/Number Basic/01. Number System/Number Basics/Natural Numbers.md",
+    "01. Number System/Number Basics",
+    "01. Number System",
     "Flowchart/Aptitude flowchart.md",
+    "HCL Preparation/APTITUDE/Modules/NumberSystem/Number Basic/01. Number System/Number Basics",
+    "HCL Preparation/APTITUDE/Modules/NumberSystem/Number Basic/01. Number System",
+    "HCL Preparation/APTITUDE/Modules/Untitled.md",
+    "HCL Preparation/APTITUDE/Modules/NumberSystem/Number Basic",
+    "HCL Preparation/APTITUDE/Modules/NumberSystem",
+    "HCL Preparation/APTITUDE/Modules",
+    "Readme.md",
     "Flowchart/Verbal flow chart.md",
     "Flowchart/Reasoning flowchart.md",
     "Flowchart/Cs Fundamentals flow chart.md",
     "Flowchart/Coding flowchart.md",
     "HCL Preparation/CS FUNDAMENTAL/Syllabus.md",
-    "HCL Preparation/APTITUDE/Syllabus.md",
     "HCL Preparation/CODING/Syllabus.md",
     "HCL Preparation/REASONING/Syllabus.md",
     "HCL Preparation",
@@ -243,13 +286,6 @@
     "Natural Numbers.md",
     "APTITUDE/Number System.md",
     "APTITUDE/Untitled/Number System.md",
-    "Readme.md",
-    "APTITUDE/Untitled",
-    "Untitled.base",
-    "HCL Preparation/CS FUNDAMENTAL",
-    "HCL Preparation/CODING",
-    "HCL Preparation/REASONING",
-    "HCL Preparation/VERBAL",
-    "HCL Preparation/APTITUDE"
+    "APTITUDE/Untitled"
   ]
 }
