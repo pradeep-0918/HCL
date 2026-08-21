@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HCL Placement Preparation
 
 > A complete, structured, and practical roadmap for **HCL campus placement preparation**, covering Aptitude, Logical Reasoning, Verbal Ability, Coding, SQL, DBMS, OOPS, Operating Systems, Computer Networks, and Technical Interviews.
@@ -24,6 +25,40 @@ This repository is maintained as an **Obsidian-friendly knowledge base**, so eve
 ---
 
 # Complete Preparation Roadmap
+=======
+# 🚀 HCL Placement Preparation
+
+> A complete, structured, and practical roadmap for **HCL campus placement preparation**, covering Aptitude, Logical Reasoning, Verbal Ability, Coding, SQL, DBMS, OOPS, Operating Systems, Computer Networks, and Technical Interviews.
+
+![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/HCL-Placement-Preparation?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/HCL-Placement-Preparation?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/YOUR_USERNAME/HCL-Placement-Preparation?style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/YOUR_USERNAME/HCL-Placement-Preparation?style=for-the-badge)
+
+---
+
+## 🎯 About This Repository
+
+This repository is a complete **HCL Placement Preparation** knowledge base designed for students preparing for:
+
+- HCL campus placements
+- HCLTech online assessments
+- HCL aptitude tests
+- HCL coding assessments
+- HCL technical interviews
+- HCL HR interviews
+- General software engineering placements
+
+The goal is simple:
+
+> **Learn the concept → Understand the pattern → Practice problems → Revise → Crack the interview.**
+
+This repository is maintained as an **Obsidian-friendly knowledge base**, so every topic is organized using folders, properties, tags, and internal wiki links.
+
+---
+
+# 📚 Complete Preparation Roadmap
+>>>>>>> origin/main
 
 ```text
 HCL PLACEMENT PREPARATION
@@ -100,4 +135,8 @@ HCL PLACEMENT PREPARATION
     ├── Software Engineering
     ├── Computer Security
     ├── Java
+<<<<<<< HEAD
     └── Technical Interview
+=======
+    └── Technical Interview
+>>>>>>> origin/main
