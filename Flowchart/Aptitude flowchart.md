@@ -13,7 +13,7 @@ APTITUDE/
 │   │   ├── Positive and Negative Numbers
 │   │   └── Prime and Composite Numbers
 │   │
-│   ├── Divisibility/
+│   ├── Divi[[Aptitude flowchart]]sibility/
 │   │   ├── Divisibility Rules
 │   │   ├── Divisibility by 2
 │   │   ├── Divisibility by 3
