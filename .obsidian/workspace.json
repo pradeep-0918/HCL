@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HCL Preparation/APTITUDE/01. Number System/Divisibility/General Divisibility Problems.md",
+                "file": "HCL Preparation/APTITUDE/01. Number System/HCF and LCM/HCF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General Divisibility Problems"
+              "title": "HCF"
             }
           }
         ],
@@ -211,15 +211,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3d7165e875c0cd2",
+  "active": "a8066e67a2b333b8",
   "lastOpenFiles": [
-    "HCL Preparation/APTITUDE/01. Number System/Divisibility/Divisibility Rules.md",
-    "Divisibility by 2.md",
-    "HCL Preparation/APTITUDE/01. Number System/Divisibility/Divisible by 2.md",
+    "HCL Preparation/APTITUDE/01. Number System/Remainders/Remainder Theorem.md",
+    "HCL Preparation/APTITUDE/01. Number System/Remainders/Large Number Remainders.md",
+    "HCL Preparation/APTITUDE/01. Number System/Remainders/Basic Remainder.md",
+    "HCL Preparation/APTITUDE/01. Number System/HCF and LCM/Application Problems.md",
+    "HCL Preparation/APTITUDE/01. Number System/HCF and LCM/HCF and LCM of Fractions.md",
+    "HCL Preparation/APTITUDE/01. Number System/HCF and LCM/HCF-LCM Relationship.md",
+    "HCL Preparation/APTITUDE/01. Number System/HCF and LCM/LCM.md",
+    "HCL Preparation/APTITUDE/01. Number System/HCF and LCM/HCF.md",
+    "HCL Preparation/APTITUDE/01. Number System/Factors and Multiples/Product of Factors.md",
+    "HCL Preparation/APTITUDE/01. Number System/Factors and Multiples/Sum of Factors.md",
+    "HCL Preparation/APTITUDE/01. Number System/Factors and Multiples/Multiples.md",
+    "HCL Preparation/APTITUDE/01. Number System/Factors and Multiples/Factorization.md",
+    "HCL Preparation/APTITUDE/01. Number System/Factors and Multiples/Number of Factors.md",
+    "HCL Preparation/APTITUDE/01. Number System/Factors and Multiples/Factors.md",
     "HCL Preparation/APTITUDE/01. Number System/Divisibility/General Divisibility Problems.md",
-    "Flowchart/Aptitude flowchart.md",
-    "01. Number System.md",
-    "HCL Preparation/APTITUDE/11. Mixture and Alligation/Divisibility by 2.md",
     "HCL Preparation/APTITUDE/01. Number System/Divisibility/Divisibility by 11.md",
     "HCL Preparation/APTITUDE/01. Number System/Divisibility/Divisibility by 9.md",
     "HCL Preparation/APTITUDE/01. Number System/Divisibility/Divisibility by 8.md",
@@ -229,16 +237,8 @@
     "HCL Preparation/APTITUDE/01. Number System/Divisibility/Divisibility by 4.md",
     "HCL Preparation/APTITUDE/01. Number System/Divisibility/Divisibility by 3.md",
     "HCL Preparation/APTITUDE/01. Number System/Divisibility/Divisibility by 2.md",
-    "HCL Preparation/APTITUDE/01. Number System/Factors and Multiples/Factors and Muliples.md",
-    "HCL Preparation/APTITUDE/01. Number System/Factors and Multiples/Factorization.md",
-    "HCL Preparation/APTITUDE/01. Number System/Factors and Multiples/Product of Factors.md",
-    "HCL Preparation/APTITUDE/01. Number System/Factors and Multiples/Sum of Factors.md",
-    "HCL Preparation/APTITUDE/01. Number System/Factors and Multiples/Number of Factors.md",
-    "HCL Preparation/APTITUDE/01. Number System/Factors and Multiples/Multiples.md",
-    "HCL Preparation/APTITUDE/01. Number System/Number Basics/Prime and Composite Numbers.md",
-    "HCL Preparation/APTITUDE/01. Number System/Number Basics/Positive and Negative Numbers.md",
-    "HCL Preparation/APTITUDE/01. Number System/Number Basics/Even and Odd Numbers.md",
-    "HCL Preparation/APTITUDE/01. Number System/Number Basics/Real Numbers.md",
+    "HCL Preparation/APTITUDE/01. Number System/Divisibility/Divisibility Rules.md",
+    "HCL Preparation/APTITUDE/01. Number System/Number Basics/Integers.md",
     "Untitled",
     "HCL Preparation/APTITUDE/27. Advanced - Miscellaneous/Mixed",
     "HCL Preparation/APTITUDE/27. Advanced - Miscellaneous",
