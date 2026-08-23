@@ -1,8 +1,8 @@
 ---
 type: concept
 subject: aptitude
-topic: "Basic Average"
-parent: "05. Average"
+topic: Basic Average
+parent: 05. Average
 company: HCL
 difficulty: easy
 priority: very-high
@@ -18,7 +18,7 @@ wikilinks:
   - "[[Average of Numbers]]"
   - "[[Weighted Average]]"
   - "[[Combined Average]]"
-  - "[[Average Age]]"
+  - "[[HCL Preparation/APTITUDE/02. Simplification and Approximation/Core 1/Average Age]]"
 ---
 
 # Basic Average

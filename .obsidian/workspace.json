@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HCL Preparation/CS FUNDAMENTAL/01. OOPS/OOP Basics/Class.md",
+                "file": "HCL Preparation/APTITUDE/Syllabus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class"
+              "title": "Syllabus"
             }
           }
         ]
@@ -196,34 +196,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b367b4c5358381a6",
+  "active": "e3d7165e875c0cd2",
   "lastOpenFiles": [
+    "HCL Preparation/APTITUDE/02. Simplification and Approximation/Core 1/Weighted Average.md",
+    "Untitled.canvas",
+    "HCL Preparation/APTITUDE/Syllabus.md",
+    "HCL Preparation/APTITUDE/02. Simplification and Approximation/Core 1/Combined Average.md",
+    "HCL Preparation/APTITUDE/02. Simplification and Approximation/Core 1/Average-Based Applications.md",
+    "HCL Preparation/APTITUDE/02. Simplification and Approximation/Core 1/Average After Removal.md",
+    "HCL Preparation/APTITUDE/02. Simplification and Approximation/Core 1/Average After Addition.md",
+    "2026-08-23.md",
+    "Untitled.base",
+    "HCL Preparation/VERBAL/01. Grammar Fundamentals/Parts of Speech/Adjective.md",
+    "HCL Preparation/REASONING/01. Analogy/Figure Analogy.md",
+    "HCL Preparation/CS FUNDAMENTAL/01. OOPS/OOP Basics/Class.md",
     "HCL Preparation/CS FUNDAMENTAL/01. OOPS/Constructors/Default Constructor.md",
     "Flowchart/CS Fundamentals flow chart.md",
     "HCL Preparation/CODING/01. Programming Fundamentals/Input and Output.md",
     "HCL Preparation/CODING/01. Programming Fundamentals/Variables and Data Types.md",
-    "HCL Preparation/VERBAL/01. Grammar Fundamentals/Parts of Speech/Adjective.md",
     "HCL Preparation/VERBAL/01. Grammar Fundamentals/Parts of Speech/Verb.md",
     "HCL Preparation/REASONING/01. Analogy/Letter Analogy.md",
     "HCL Preparation/REASONING/01. Analogy/Alphabet Analogy.md",
     "HCL Preparation/REASONING/01. Analogy/Number Analogy.md",
-    "HCL Preparation/APTITUDE/05. Average/Core/Weighted Average.md",
     "HCL Preparation/VERBAL/01. Grammar Fundamentals/Parts of Speech/Pronoun.md",
     "HCL Preparation/REASONING/01. Analogy/Word Analogy.md",
     "Flowchart/Coding flowchart.md",
-    "HCL Preparation/APTITUDE/05. Average/Core/Average of Numbers.md",
-    "HCL Preparation/APTITUDE/05. Average/Core/Basic Average.md",
+    "HCL Preparation/APTITUDE/02. Simplification and Approximation/Core 1/Average of Numbers.md",
+    "HCL Preparation/APTITUDE/02. Simplification and Approximation/Core 1/Basic Average.md",
     "HCL Preparation/VERBAL/01. Grammar Fundamentals/Parts of Speech/Noun.md",
     "HCL Preparation/VERBAL/01. Grammar Fundamentals/Articles/A.md",
-    "Flowchart/Verbal flow chart.md",
-    "Flowchart/Aptitude flowchart.md",
-    "Flowchart/Reasoning flowchart.md",
-    "HCL Preparation/APTITUDE/04. Ratio and Proportion/Core/Division in Given Ratio.md",
-    "HCL Preparation/APTITUDE/04. Ratio and Proportion/Core/Ratio-Based Word Problems.md",
-    "HCL Preparation/APTITUDE/04. Ratio and Proportion/Core/Continued Proportion.md",
-    "HCL Preparation/APTITUDE/04. Ratio and Proportion/Core/Inverse Proportion.md",
-    "HCL Preparation/CS FUNDAMENTAL/13. CS Fundamentals Interview/Final Revision.md",
-    "HCL Preparation/CS FUNDAMENTAL/13. CS Fundamentals Interview/Technical Mock Interviews.md",
     "HCL Preparation/CS FUNDAMENTAL/13. CS Fundamentals Interview",
     "HCL Preparation/CS FUNDAMENTAL/12. SQL and Database Practice",
     "HCL Preparation/CS FUNDAMENTAL/11. Java Fundamentals/Collections Framework",
@@ -232,7 +233,6 @@
     "HCL Preparation/CS FUNDAMENTAL/09. Data Structures Fundamentals",
     "HCL Preparation/CS FUNDAMENTAL/08. Computer Security/Common Attacks",
     "HCL Preparation/CS FUNDAMENTAL/08. Computer Security/Encryption",
-    "HCL Preparation/CS FUNDAMENTAL/08. Computer Security/CIA Triad",
-    "HCL Preparation/CS FUNDAMENTAL/08. Computer Security"
+    "HCL Preparation/CS FUNDAMENTAL/08. Computer Security/CIA Triad"
   ]
 }
