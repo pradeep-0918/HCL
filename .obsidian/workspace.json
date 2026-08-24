@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HCL Preparation/CS FUNDAMENTAL/02. DBMS/Data Models/Hierarchical Model.md",
+                "file": "HCL Preparation/CS FUNDAMENTAL/02. DBMS/Keys/Primary Key.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hierarchical Model"
+              "title": "Primary Key"
             }
           }
         ],
@@ -213,6 +213,14 @@
   },
   "active": "bef00d25d5429008",
   "lastOpenFiles": [
+    "Flowchart/CS Fundamentals flow chart.md",
+    "HCL Preparation/CS FUNDAMENTAL/02. DBMS/ER Model/ER Diagram.md",
+    "HCL Preparation/CS FUNDAMENTAL/02. DBMS/ER Model/Cardinality.md",
+    "HCL Preparation/CS FUNDAMENTAL/02. DBMS/ER Model/Relationship.md",
+    "HCL Preparation/CS FUNDAMENTAL/02. DBMS/ER Model/Attribute.md",
+    "HCL Preparation/CS FUNDAMENTAL/02. DBMS/ER Model/Entity.md",
+    "HCL Preparation/CS FUNDAMENTAL/02. DBMS/Data Models/ER Model.md",
+    "HCL Preparation/CS FUNDAMENTAL/02. DBMS/Data Models/Relational Model.md",
     "HCL Preparation/CS FUNDAMENTAL/02. DBMS/Data Models/Network Model.md",
     "HCL Preparation/CS FUNDAMENTAL/02. DBMS/Data Models/Hierarchical Model.md",
     "HCL Preparation/CS FUNDAMENTAL/02. DBMS/DBMS Basics/DBMS Architecture.md",
@@ -228,17 +236,9 @@
     "HCL Preparation/CODING/02. Number Problems/Number Basics/Armstrong Number.md",
     "HCL Preparation/APTITUDE/07. Simple Interest/Core/Application Problems.md",
     "HCL Preparation/APTITUDE/07. Simple Interest/Core/Finding Missing Variables.md",
-    "Flowchart/CS Fundamentals flow chart.md",
     "HCL Preparation/CS FUNDAMENTAL/01. OOPS/OOPS Interview Questions.md",
     "HCL Preparation/CS FUNDAMENTAL/01. OOPS/SOLID Principles.md",
     "HCL Preparation/CS FUNDAMENTAL/01. OOPS/Coupling and Cohesion.md",
-    "HCL Preparation/CS FUNDAMENTAL/01. OOPS/Composition.md",
-    "HCL Preparation/CS FUNDAMENTAL/09. Data Structures Fundamentals/Linked Lists.md",
-    "HCL Preparation/CS FUNDAMENTAL/09. Data Structures Fundamentals/Arrays.md",
-    "HCL Preparation/CS FUNDAMENTAL/01. OOPS/Aggregation.md",
-    "HCL Preparation/CS FUNDAMENTAL/01. OOPS/Association.md",
-    "HCL Preparation/CS FUNDAMENTAL/01. OOPS/final Keyword.md",
-    "HCL Preparation/CS FUNDAMENTAL/01. OOPS/static Keyword.md",
     "Untitled.canvas",
     "Untitled.base",
     "HCL Preparation/CS FUNDAMENTAL/13. CS Fundamentals Interview",
