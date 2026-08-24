@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HCL Preparation/CS FUNDAMENTAL/01. OOPS/OOPS Interview Questions.md",
+                "file": "HCL Preparation/CS FUNDAMENTAL/02. DBMS/DBMS Basics/Database.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OOPS Interview Questions"
+              "title": "Database"
             }
           }
         ],
@@ -213,8 +213,17 @@
   },
   "active": "bef00d25d5429008",
   "lastOpenFiles": [
-    "HCL Preparation/CS FUNDAMENTAL/01. OOPS/SOLID Principles.md",
+    "HCL Preparation/CODING/02. Number Problems/GCD and LCM.md",
+    "HCL Preparation/CODING/02. Number Problems/Factorial.md",
+    "HCL Preparation/CODING/02. Number Problems/Fibonacci.md",
+    "HCL Preparation/CODING/02. Number Problems/Power of Number.md",
+    "HCL Preparation/CODING/02. Number Problems/Number Basics/Happy Number.md",
+    "HCL Preparation/CODING/02. Number Problems/Number Basics/Armstrong Number.md",
+    "HCL Preparation/APTITUDE/07. Simple Interest/Core/Application Problems.md",
+    "HCL Preparation/APTITUDE/07. Simple Interest/Core/Finding Missing Variables.md",
+    "Flowchart/CS Fundamentals flow chart.md",
     "HCL Preparation/CS FUNDAMENTAL/01. OOPS/OOPS Interview Questions.md",
+    "HCL Preparation/CS FUNDAMENTAL/01. OOPS/SOLID Principles.md",
     "HCL Preparation/CS FUNDAMENTAL/01. OOPS/Coupling and Cohesion.md",
     "HCL Preparation/CS FUNDAMENTAL/01. OOPS/Composition.md",
     "HCL Preparation/CS FUNDAMENTAL/09. Data Structures Fundamentals/Linked Lists.md",
@@ -226,19 +235,10 @@
     "HCL Preparation/CODING/02. Number Problems/Digit Problems/Digit Frequency.md",
     "HCL Preparation/CODING/02. Number Problems/Digit Problems/Reverse Number.md",
     "HCL Preparation/CODING/02. Number Problems/Digit Problems/Count Digits.md",
-    "HCL Preparation/APTITUDE/07. Simple Interest/Core/Application Problems.md",
-    "HCL Preparation/APTITUDE/07. Simple Interest/Core/Finding Missing Variables.md",
     "HCL Preparation/APTITUDE/07. Simple Interest/Core/Amount.md",
     "HCL Preparation/VERBAL/03. Tenses and Verb Forms/Present Forms.md",
     "HCL Preparation/REASONING/05. Blood Relations/Family Tree Basics.md",
     "HCL Preparation/CS FUNDAMENTAL/01. OOPS/super Keyword.md",
-    "HCL Preparation/CODING/02. Number Problems/Digit Problems/Palindrome Number.md",
-    "HCL Preparation/APTITUDE/07. Simple Interest/Core/Simple Interest.md",
-    "Flowchart/Verbal flow chart.md",
-    "Flowchart/Reasoning flowchart.md",
-    "HCL Preparation/REASONING/04. Coding Decoding/Mixed Coding Decoding.md",
-    "HCL Preparation/CS FUNDAMENTAL/01. OOPS/this Keyword.md",
-    "HCL Preparation/CODING/02. Number Problems/Number Basics/Strong Number.md",
     "Untitled.canvas",
     "Untitled.base",
     "HCL Preparation/CS FUNDAMENTAL/13. CS Fundamentals Interview",
