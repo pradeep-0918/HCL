@@ -3315,3 +3315,69 @@ Composition
 
 Inheritance
 → IS-A
+```
+```
+```
+
+## 132. Quick Revision
+
+>[!summary] One-Minute Revision
+>Definition
+Association is a relationship between two or more classes/objects that interact, know, communicate, or work with each other.
+*Core Idea
+A ↔ B
+means:
+A is related to B.
+Examples
+Teacher ↔ Student
+Doctor ↔ Patient
+Driver ↔ Car
+Employee ↔ Project
+Java
+Association can be represented using:
+references
+fields
+constructors
+method parameters
+collections
+interfaces
+Direction
+A → B
+→ Unidirectional
+A ↔ B
+→ Bidirectional
+Multiplicity
+1 : 1
+→ One-to-One
+1 : N
+→ One-to-Many
+N : 1
+→ Many-to-One
+N : N
+→ Many-to-Many
+Association
+General relationship
+Aggregation
+Weak whole-part
+independent part
+Composition
+Strong whole-part
+dependent lifecycle
+Inheritance
+IS-A
+Dependency
+Temporary usage
+Most Important Interview Trick
+Ask:
+Are they simply related?
+Association
+Is it whole-part?
+Aggregation/Composition
+is it IS-A?
+Inheritance
+Is one only temporarily using the other?
+Dependency may be more precise
+Golden Memory Trick
+Association means "these objects are connected"; aggregation and composition tell you how strongly the whole-part relationship is owned.
+One-Line Recognition
+If two independent classes interact, know, use, or work with each other without an inherent lifecycle dependency, think Association.

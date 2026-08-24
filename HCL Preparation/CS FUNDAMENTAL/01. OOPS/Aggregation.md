@@ -1,31 +1,3 @@
----
-type: concept
-subject: aptitude
-topic: Association
-parent: OOPS
-company: HCL
-difficulty: medium
-priority: high
-status: not-started
-tags:
-  - aptitude
-  - hcl
-  - oops
-  - java
-  - association
-  - aggregation
-  - composition
-  - object-relationship
-  - uml
-  - interview
-wikilinks:
-  - "[[OOPS]]"
-  - "[[Aggregation]]"
-  - "[[Composition]]"
-  - "[[Coupling and Cohesion]]"
-  - "[[Inheritance]]"
-  - "[[Encapsulation]]"
----
 
 # Association
 
