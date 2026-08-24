@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "377a78f1b310281e",
+        "id": "0052ba41ef4ec1b6",
         "type": "tabs",
         "children": [
           {
-            "id": "b367b4c5358381a6",
+            "id": "3c74a1a0a1448d39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HCL Preparation/APTITUDE/Syllabus.md",
+                "file": "HCL Preparation/APTITUDE/06. Profit Loss and Discount/Advanced/Mixed Profit-Loss Problems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Syllabus"
+              "title": "Mixed Profit-Loss Problems"
+            }
+          },
+          {
+            "id": "bef00d25d5429008",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HCL Preparation/CS FUNDAMENTAL/01. OOPS/Association.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Association"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,35 +211,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3d7165e875c0cd2",
+  "active": "bef00d25d5429008",
   "lastOpenFiles": [
-    "HCL Preparation/APTITUDE/02. Simplification and Approximation/Core 1/Weighted Average.md",
+    "HCL Preparation/CS FUNDAMENTAL/01. OOPS/Aggregation.md",
+    "HCL Preparation/CS FUNDAMENTAL/01. OOPS/Association.md",
+    "HCL Preparation/CODING/02. Number Problems/Digit Problems/Digit Frequency.md",
+    "HCL Preparation/CODING/02. Number Problems/Digit Problems/Reverse Number.md",
+    "HCL Preparation/CODING/02. Number Problems/Digit Problems/Count Digits.md",
+    "HCL Preparation/APTITUDE/07. Simple Interest/Core/Application Problems.md",
+    "HCL Preparation/APTITUDE/07. Simple Interest/Core/Finding Missing Variables.md",
+    "HCL Preparation/CS FUNDAMENTAL/01. OOPS/final Keyword.md",
+    "HCL Preparation/APTITUDE/07. Simple Interest/Core/Amount.md",
+    "HCL Preparation/VERBAL/03. Tenses and Verb Forms/Present Forms.md",
+    "HCL Preparation/REASONING/05. Blood Relations/Family Tree Basics.md",
+    "HCL Preparation/CS FUNDAMENTAL/01. OOPS/static Keyword.md",
+    "HCL Preparation/CS FUNDAMENTAL/01. OOPS/super Keyword.md",
+    "HCL Preparation/CODING/02. Number Problems/Digit Problems/Palindrome Number.md",
+    "HCL Preparation/APTITUDE/07. Simple Interest/Core/Simple Interest.md",
+    "Flowchart/Verbal flow chart.md",
+    "Flowchart/Reasoning flowchart.md",
+    "HCL Preparation/REASONING/04. Coding Decoding/Mixed Coding Decoding.md",
+    "HCL Preparation/CS FUNDAMENTAL/01. OOPS/this Keyword.md",
+    "HCL Preparation/CODING/02. Number Problems/Number Basics/Strong Number.md",
+    "HCL Preparation/CODING/02. Number Problems/Digit Problems/Sum of Digits.md",
+    "HCL Preparation/CODING/02. Number Problems/Number Basics/Happy Number.md",
+    "HCL Preparation/CODING/02. Number Problems/Number Basics/Prime Number.md",
+    "HCL Preparation/APTITUDE/07. Simple Interest/Core/Time.md",
+    "HCL Preparation/VERBAL/02. Sentence Structure/Compound Complex Sentence.md",
+    "HCL Preparation/VERBAL/02. Sentence Structure/Complex Sentence.md",
     "Untitled.canvas",
-    "HCL Preparation/APTITUDE/Syllabus.md",
-    "HCL Preparation/APTITUDE/02. Simplification and Approximation/Core 1/Combined Average.md",
-    "HCL Preparation/APTITUDE/02. Simplification and Approximation/Core 1/Average-Based Applications.md",
-    "HCL Preparation/APTITUDE/02. Simplification and Approximation/Core 1/Average After Removal.md",
-    "HCL Preparation/APTITUDE/02. Simplification and Approximation/Core 1/Average After Addition.md",
-    "2026-08-23.md",
     "Untitled.base",
-    "HCL Preparation/VERBAL/01. Grammar Fundamentals/Parts of Speech/Adjective.md",
-    "HCL Preparation/REASONING/01. Analogy/Figure Analogy.md",
-    "HCL Preparation/CS FUNDAMENTAL/01. OOPS/OOP Basics/Class.md",
-    "HCL Preparation/CS FUNDAMENTAL/01. OOPS/Constructors/Default Constructor.md",
-    "Flowchart/CS Fundamentals flow chart.md",
-    "HCL Preparation/CODING/01. Programming Fundamentals/Input and Output.md",
-    "HCL Preparation/CODING/01. Programming Fundamentals/Variables and Data Types.md",
-    "HCL Preparation/VERBAL/01. Grammar Fundamentals/Parts of Speech/Verb.md",
-    "HCL Preparation/REASONING/01. Analogy/Letter Analogy.md",
-    "HCL Preparation/REASONING/01. Analogy/Alphabet Analogy.md",
-    "HCL Preparation/REASONING/01. Analogy/Number Analogy.md",
-    "HCL Preparation/VERBAL/01. Grammar Fundamentals/Parts of Speech/Pronoun.md",
-    "HCL Preparation/REASONING/01. Analogy/Word Analogy.md",
-    "Flowchart/Coding flowchart.md",
-    "HCL Preparation/APTITUDE/02. Simplification and Approximation/Core 1/Average of Numbers.md",
-    "HCL Preparation/APTITUDE/02. Simplification and Approximation/Core 1/Basic Average.md",
-    "HCL Preparation/VERBAL/01. Grammar Fundamentals/Parts of Speech/Noun.md",
-    "HCL Preparation/VERBAL/01. Grammar Fundamentals/Articles/A.md",
     "HCL Preparation/CS FUNDAMENTAL/13. CS Fundamentals Interview",
     "HCL Preparation/CS FUNDAMENTAL/12. SQL and Database Practice",
     "HCL Preparation/CS FUNDAMENTAL/11. Java Fundamentals/Collections Framework",

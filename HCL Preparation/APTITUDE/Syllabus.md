@@ -254,7 +254,7 @@ tags:
 - [[Average After Addition|Average After Addition]]
 - [[Average After Removal|Average After Removal]]
 - [[Average After Replacement|Average After Replacement]]
-- [[HCL Preparation/APTITUDE/02. Simplification and Approximation/Core 1/Average Age|Average Age]]
+- [[HCL Preparation/APTITUDE/05. Average/Core/Average Age|Average Age]]
 - [[Average-Based Applications|Average-Based Applications]]
 
 ## 06. Profit Loss and Discount 🔥

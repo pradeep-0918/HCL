@@ -18,7 +18,7 @@ wikilinks:
   - "[[Average of Numbers]]"
   - "[[Weighted Average]]"
   - "[[Combined Average]]"
-  - "[[HCL Preparation/APTITUDE/02. Simplification and Approximation/Core 1/Average Age]]"
+  - "[[HCL Preparation/APTITUDE/05. Average/Core/Average Age]]"
 ---
 
 # Basic Average
