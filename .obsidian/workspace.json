@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HCL Preparation/CS FUNDAMENTAL/01. OOPS/Association.md",
+                "file": "HCL Preparation/CS FUNDAMENTAL/01. OOPS/OOPS Interview Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Association"
+              "title": "OOPS Interview Questions"
             }
           }
         ],
@@ -213,9 +213,15 @@
   },
   "active": "bef00d25d5429008",
   "lastOpenFiles": [
+    "HCL Preparation/CS FUNDAMENTAL/01. OOPS/SOLID Principles.md",
+    "HCL Preparation/CS FUNDAMENTAL/01. OOPS/OOPS Interview Questions.md",
+    "HCL Preparation/CS FUNDAMENTAL/01. OOPS/Coupling and Cohesion.md",
+    "HCL Preparation/CS FUNDAMENTAL/01. OOPS/Composition.md",
+    "HCL Preparation/CS FUNDAMENTAL/09. Data Structures Fundamentals/Linked Lists.md",
+    "HCL Preparation/CS FUNDAMENTAL/09. Data Structures Fundamentals/Arrays.md",
     "HCL Preparation/CS FUNDAMENTAL/01. OOPS/Aggregation.md",
-    "HCL Preparation/CS FUNDAMENTAL/01. OOPS/final Keyword.md",
     "HCL Preparation/CS FUNDAMENTAL/01. OOPS/Association.md",
+    "HCL Preparation/CS FUNDAMENTAL/01. OOPS/final Keyword.md",
     "HCL Preparation/CS FUNDAMENTAL/01. OOPS/static Keyword.md",
     "HCL Preparation/CODING/02. Number Problems/Digit Problems/Digit Frequency.md",
     "HCL Preparation/CODING/02. Number Problems/Digit Problems/Reverse Number.md",
@@ -233,12 +239,6 @@
     "HCL Preparation/REASONING/04. Coding Decoding/Mixed Coding Decoding.md",
     "HCL Preparation/CS FUNDAMENTAL/01. OOPS/this Keyword.md",
     "HCL Preparation/CODING/02. Number Problems/Number Basics/Strong Number.md",
-    "HCL Preparation/CODING/02. Number Problems/Digit Problems/Sum of Digits.md",
-    "HCL Preparation/CODING/02. Number Problems/Number Basics/Happy Number.md",
-    "HCL Preparation/CODING/02. Number Problems/Number Basics/Prime Number.md",
-    "HCL Preparation/APTITUDE/07. Simple Interest/Core/Time.md",
-    "HCL Preparation/VERBAL/02. Sentence Structure/Compound Complex Sentence.md",
-    "HCL Preparation/VERBAL/02. Sentence Structure/Complex Sentence.md",
     "Untitled.canvas",
     "Untitled.base",
     "HCL Preparation/CS FUNDAMENTAL/13. CS Fundamentals Interview",
