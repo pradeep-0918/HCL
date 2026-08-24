@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HCL Preparation/CS FUNDAMENTAL/02. DBMS/DBMS Basics/Database.md",
+                "file": "HCL Preparation/CS FUNDAMENTAL/02. DBMS/Data Models/Hierarchical Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Database"
+              "title": "Hierarchical Model"
             }
           }
         ],
@@ -213,6 +213,13 @@
   },
   "active": "bef00d25d5429008",
   "lastOpenFiles": [
+    "HCL Preparation/CS FUNDAMENTAL/02. DBMS/Data Models/Network Model.md",
+    "HCL Preparation/CS FUNDAMENTAL/02. DBMS/Data Models/Hierarchical Model.md",
+    "HCL Preparation/CS FUNDAMENTAL/02. DBMS/DBMS Basics/DBMS Architecture.md",
+    "HCL Preparation/CS FUNDAMENTAL/02. DBMS/DBMS Basics/DBMS vs File System.md",
+    "HCL Preparation/CS FUNDAMENTAL/02. DBMS/DBMS Basics/RDBMS.md",
+    "HCL Preparation/CS FUNDAMENTAL/02. DBMS/DBMS Basics/DBMS.md",
+    "HCL Preparation/CS FUNDAMENTAL/02. DBMS/DBMS Basics/Database.md",
     "HCL Preparation/CODING/02. Number Problems/GCD and LCM.md",
     "HCL Preparation/CODING/02. Number Problems/Factorial.md",
     "HCL Preparation/CODING/02. Number Problems/Fibonacci.md",
@@ -232,13 +239,6 @@
     "HCL Preparation/CS FUNDAMENTAL/01. OOPS/Association.md",
     "HCL Preparation/CS FUNDAMENTAL/01. OOPS/final Keyword.md",
     "HCL Preparation/CS FUNDAMENTAL/01. OOPS/static Keyword.md",
-    "HCL Preparation/CODING/02. Number Problems/Digit Problems/Digit Frequency.md",
-    "HCL Preparation/CODING/02. Number Problems/Digit Problems/Reverse Number.md",
-    "HCL Preparation/CODING/02. Number Problems/Digit Problems/Count Digits.md",
-    "HCL Preparation/APTITUDE/07. Simple Interest/Core/Amount.md",
-    "HCL Preparation/VERBAL/03. Tenses and Verb Forms/Present Forms.md",
-    "HCL Preparation/REASONING/05. Blood Relations/Family Tree Basics.md",
-    "HCL Preparation/CS FUNDAMENTAL/01. OOPS/super Keyword.md",
     "Untitled.canvas",
     "Untitled.base",
     "HCL Preparation/CS FUNDAMENTAL/13. CS Fundamentals Interview",
